@@ -1,5 +1,7 @@
 ## Personal Reinforcement Learning archive
 
 ### DQN (CartPole)
-<img src="https://github.com/user-attachments/assets/6f19e9d9-d7cf-4b88-a1eb-e6939465c827">
+<img src="https://github.com/user-attachments/assets/2df8ee13-635d-40f6-a552-9456d7c82298">
+
+<img src="https://github.com/user-attachments/assets/86c89e69-36d4-4518-8fb0-141dd0109d4c">
 
