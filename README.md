@@ -9,7 +9,7 @@
 
 <img src="https://github.com/user-attachments/assets/64363148-633a-4ab3-b0a2-97f562d81201" width = "500">
 
-### DDPG (Deep Deterministic Policy Gradient)
+### DDPG (Deep Deterministic Policy Gradient / Pendulum)
 
 <img src="https://github.com/user-attachments/assets/104a2494-ee32-4d02-a7ea-a3aed54fe5d5" width = "500">
 
